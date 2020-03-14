@@ -7,6 +7,7 @@ Problem faced
    
    Repository URL
    https://https://repo.maven.apache.org/maven2/
+   http://insecure.repo1.maven.org/maven2/
    
    Solution 1 
    
